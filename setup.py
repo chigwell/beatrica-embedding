@@ -7,7 +7,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name='beatrica-embedding',
-    version='0.1.0',
+    version='2025.5.180922',
     author='Eugene Evstafev',
     author_email='chigwel@gmail.com',
     description='A Python package for embedding and analyzing code changes in git repositories.',
